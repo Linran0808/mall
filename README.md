@@ -1,7 +1,5 @@
 # mall
-
-This is a vuejs project
-
+A vuejs project
 ## Project setup
 ```
 npm install
@@ -26,5 +24,6 @@ npm run test
 ```
 npm run lint
 ```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

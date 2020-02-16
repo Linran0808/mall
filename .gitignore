@@ -18,8 +18,4 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
-<<<<<<< HEAD
 *.sw*
-=======
-*.sw?
->>>>>>> origin/master
