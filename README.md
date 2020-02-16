@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # supermall
+=======
+# mall
+>>>>>>> origin/master
 
 ## Project setup
 ```
@@ -15,6 +19,7 @@ npm run serve
 npm run build
 ```
 
+<<<<<<< HEAD
 ### Run your tests
 ```
 npm run test
@@ -25,5 +30,7 @@ npm run test
 npm run lint
 ```
 
+=======
+>>>>>>> origin/master
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
