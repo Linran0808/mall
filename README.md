@@ -1,5 +1,7 @@
 # mall
 
+This is a vuejs project
+
 ## Project setup
 ```
 npm install
